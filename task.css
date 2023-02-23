@@ -1,0 +1,89 @@
+body {
+    background-color: rgb(232, 237, 245);
+}
+
+.Container {
+    display: flex;
+}
+
+.logo {
+    width: 50%;
+}
+
+.user-form {
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 370px;
+    height: 320px;
+    margin-top: 150px;
+    margin-left: 80px;
+    box-shadow: 0 4px 8px 0 #00000033, 0 6px 20px 0 #00000030;
+}
+
+.button1 {
+    background-color: #1b74e4;
+    color: white;
+    width: 250px;
+    height: 45px;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 10px;
+}
+
+.inp1{
+    border: 1px solid rgb(209, 197, 197);
+    width: 90%;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 5px;
+    margin-left:10px;
+}
+
+.inp2{
+    border: 1px solid rgb(209, 197, 197);
+    width: 90%;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 5px;
+    margin-left:10px;
+}
+
+.button2 {
+    background-color: #42b72a;
+    color: white;
+    width: 180px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.button2:hover{
+    background-color: rgb(10, 129, 10);
+}
+
+.link1 {
+    margin-left: 130px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 15px;
+    text-align: center;
+    color: rgb(11, 104, 243);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 295px;
+    margin-top: 170px;
+    margin-left: 110px;
+}
+
+.text1{
+    margin-top: 50px;
+    margin-left: 10px;
+}
